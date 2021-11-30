@@ -1,4 +1,6 @@
-<img alt="bruh" src="wtf.png" width="50%" height="50%">
+<p align="center">
+  <img alt="bruh" src="wtf.png" width="50%" height="50%">
+</p>
 
 [![CNCF Status](https://img.shields.io/badge/cncf%20status-rejected-blue.svg)](https://www.cncf.io/projects)
 
