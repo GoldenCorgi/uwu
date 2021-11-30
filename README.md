@@ -13,7 +13,7 @@ This buzzword turns Kubernetes into self-managing, self-scaling, and self-healin
 This cursed repository integrates deeply into cloud native environments leveraging extension points and providing a seamless experience for scheduling, lifecycle management, resource management, security, monitoring, and user experience.
 
 
-We are **NOT** a Cloud Native Computing Foundation graduated project.
+We are **NOT** a Cloud Native Computing Foundation graduated project. Yet.
 
 ## Roadmap
 
